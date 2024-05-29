@@ -16,7 +16,7 @@ void main() {
   macan.numberOfLegs = 4;
   macan.lifeSpan = 20;
   
-  macan.display();
+  macan.display();  
 
   Animal buas = Animal();
   buas.name = 'serigala';
