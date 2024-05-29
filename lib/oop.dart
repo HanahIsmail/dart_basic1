@@ -15,13 +15,13 @@ void main() {
   macan.name = 'singa';
   macan.numberOfLegs = 4;
   macan.lifeSpan = 20;
-  
-  macan.display();  
+
+  macan.display();
 
   Animal buas = Animal();
   buas.name = 'serigala';
   buas.numberOfLegs = 4;
   buas.lifeSpan = 19;
-  
+
   buas.display();
 }
